@@ -13,8 +13,6 @@ const info = {
         twitter: "https://x.com/_Vicky472",
 		github: "https://github.com/thevickykumar",
 		linkedin: "https://www.linkedin.com/in/thevickykumar/",
-		// instagram: "https://instagram.com/dsbalico",
-		// facebook: "https://facebook.com/dsbalico",
     },
 
     // ============ PROJECTS ============
@@ -24,7 +22,7 @@ const info = {
 			description: "A full-stack crypto trading platform using Spring Boot, React, and MySQL, featuring real-time market data via Gemini API and CoinGecko API. Implemented secure wallet functionality, payment gateways (Razorpay, Stripe), and user authentication with Spring Security.",
             technologies: "Java,SpringBoot,React,MySql,Tailwind",
 			github: "https://github.com/thevickykumar/cryptoWave",
-            link: "https://pseudocode-to-c.netlify.app/"
+           // link: "https://pseudocode-to-c.netlify.app/"
 		},
 
         {
@@ -32,7 +30,7 @@ const info = {
 			description: "Designed and developed a Quiz Application using Spring Boot and JPA for the backend and HTML, CSS, JS for the frontend. Enabled secure user authentication, dynamic quiz management, and real-time result tracking.",
 			technologies: "Java, SpringBoot, MySql, Javascript",
 			github: "https://github.com/thevickykumar/Quiz_App",
-            link: "https://github.com/dsbalico/YouShare"
+           // link: "https://github.com/dsbalico/YouShare"
 		},
 
         {
@@ -40,7 +38,7 @@ const info = {
 			description: "A real-time chat application using React, Node.js, and Socket.io for seamless messaging and notifications. Implemented user authentication with JWT and integrated Zustand for global state management.",
 			technologies: "React,Nodejs,Express.js,MongoDB",
 			github: "https://github.com/thevickykumar/TapToChat",
-            link: "https://letterdigitshape-classification.netlify.app/"
+           // link: "https://letterdigitshape-classification.netlify.app/"
 		},
 
 		{
