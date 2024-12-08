@@ -36,7 +36,7 @@ function Hero() {
                 Projects
               </a>
               <a
-                href="https://drive.google.com/file/d/1yfUurqm2cEUQLNBc1emaJwAk_TFbKVaw/view?usp=sharing"
+                href="https://drive.google.com/file/d/1GAIPwxRnhHTpcWG5bsUFRJ1PhqBGoI4Z/view?usp=sharing"
                 className="px-6 py-3 border border-black hover:bg-red-800 hover:text-white hover:border-red-800 dark:border-white font-medium transition-all duration-300"
                 download="Vicky_Kumar_Resume.pdf"
               >
