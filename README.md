@@ -1,37 +1,23 @@
 
-# DSFolio V1
-
-<center>
-    <img src="/public/cover.png" alt="DSFolio" />
-</center>
-
-<center>
-
-https://dsfolio-v1.vercel.app/
-
-</center>
-
 ## Technologies Used
-<img  src="https://skillicons.dev/icons?i=html,css,react,tailwind,netlify&perline=7"/>
+<img  src="https://skillicons.dev/icons?i=html,css,react,tailwind,vercely&perline=7"/>
 
 ## Installation
 1. Clone the repository
     ```bash 
-    git clone https://github.com/dsbalico/dsfolio-v1.git
+    git clone https://github.com/thevickykumar/Portfolio
     ```
 2. Change into the project directory
-    ```bash
-    cd dsfolio-v1
-    ```
+    
 3. Install dependencies
     ```bash
-    yarn install 
+    npm install 
     ```
 
 ## Usage
 To start the development server and view the project in your browser, run the following command:
 ```bash
-yarn dev
+npm run dev
 ```
 Visit http://localhost:5173/ in your browser
 
